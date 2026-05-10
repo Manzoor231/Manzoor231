@@ -1,39 +1,228 @@
-<h1 align="center">Hi 👋, I'm Manzoor Strange</h1>
-<h3 align="center">A passionate FullStack Developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manzoor231&label=Profile%20views&color=0e75b6&style=flat" alt="manzoor231" /> </p>
+# Manzoor Strange
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manzoor231" alt="manzoor231" /></a> </p>
+### FullStack Engineer • AI Builder • Creative Developer • System Architect
 
-<p align="left"> <a href="https://twitter.com/strange_manzoor" target="blank"><img src="https://img.shields.io/twitter/follow/strange_manzoor?logo=twitter&style=for-the-badge" alt="strange_manzoor" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Applications;FullStack+Developer+%7C+React+%2B+Node.js;Blockchain+%7C+GameDev+%7C+Automation;Creating+Tech+That+Feels+Like+The+Future" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manzoor231](https://github.com/Manzoor231)
+<img src="https://komarev.com/ghpvc/?username=manzoor231&label=Profile+Views&color=0e75b6&style=flat" />
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/realmanzoor/](https://www.linkedin.com/in/realmanzoor/)
+</div>
 
-- 💬 Ask me about **react,Nextjs, Mongodb, PHP, HTMl/CSS**
+---
 
-- 📫 How to reach me **manzoorstrange2002@gmail.com**
+# 🌌 About Me
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/realmanzoor/](https://www.linkedin.com/in/realmanzoor/)
+```javascript
+const manzoor = {
+    location: "Afghanistan",
+    role: "FullStack + AI Engineer",
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/strange_manzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="strange_manzoor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/realmanzoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realmanzoor" height="30" width="40" /></a>
-<a href="https://fb.com/manzoorstrange.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manzoorstrange.official" height="30" width="40" /></a>
-<a href="https://instagram.com/manzoorstrange.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manzoorstrange.official" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/manzoorstrange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manzoorstrange" height="30" width="40" /></a>
-</p>
+    currentFocus: [
+        "AI Applications",
+        "Fintech Systems",
+        "Scalable Backends",
+        "3D Web Experiences",
+        "Browser Games",
+        "Automation"
+    ],
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+    techStack: {
+        frontend: [
+            "React",
+            "Next.js",
+            "TailwindCSS",
+            "TypeScript"
+        ],
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/_realmanzoor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/_realmanzoor" /></a><a href="https://ko-fi.com/ko-fi.com/realmanzoor"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/realmanzoor" /></a></p><br><br>
+        backend: [
+            "Node.js",
+            "Express",
+            "MongoDB",
+            "PostgreSQL"
+        ],
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manzoor231&show_icons=true&locale=en&layout=compact" alt="manzoor231" /></p>
+        ai_ml: [
+            "Python",
+            "TensorFlow",
+            "Scikit-Learn"
+        ],
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manzoor231&show_icons=true&locale=en" alt="manzoor231" /></p>
+        devops: [
+            "Docker",
+            "Linux",
+            "GitHub Actions"
+        ],
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manzoor231&" alt="manzoor231" /></p>
+        gamedev: [
+            "Unity",
+            "Unreal Engine",
+            "Three.js"
+        ],
+
+        blockchain: [
+            "Solidity",
+            "Web3",
+            "Smart Contracts"
+        ]
+    },
+
+    currentlyBuilding: "AI Powered Fintech Infrastructure",
+
+    mindset: "Build clean. Build scalable. Build futuristic."
+}
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,tailwind,mongodb,postgres,docker,linux,python,tensorflow,git,github,cpp,cs,unity,unreal&theme=dark" />
+
+</div>
+
+---
+
+# 🧠 Current Focus
+
+- Building scalable AI-powered applications
+- Advanced backend architecture
+- Fintech infrastructure systems
+- Real-time systems & automation
+- Three.js browser game development
+- AI + FullStack engineering
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| AI SaaS Platform | AI automation and workflow system | Next.js + OpenAI |
+| Fintech Backend | Scalable payment infrastructure | Node.js + PostgreSQL |
+| Browser MMO Game | Minecraft-inspired open world game | Three.js |
+| AI Voice System | Voice cloning + TTS experiments | Python + AI |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manzoor231&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzoor231&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=manzoor231&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manzoor231&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manzoor231&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Manzoor231">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/realmanzoor">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/strange_manzoor">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/manzoorstrange.official">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@manzoorstrange">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="mailto:manzoorstrange2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 🧩 Philosophy
+
+<div align="center">
+
+> “The future belongs to developers who can combine engineering, AI, creativity, and systems thinking into one vision.”
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# ☕ Support
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/_realmanzoor">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://ko-fi.com/realmanzoor">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building futuristic software powered by AI, creativity, and scalable systems.
+
+</div>
